@@ -1,0 +1,32 @@
+[
+  {
+    "id": "inuyasha",
+    "name": "InuYasha",
+    "description": "Headstrong, impulsive and fiercely protective of the people he cares about.",
+    "image": "images/inuyasha.jpg"
+  },
+  {
+    "id": "kagome",
+    "name": "Kagome Higurashi",
+    "description": "Compassionate, determined and able to remain calm even in difficult situations.",
+    "image": "images/kagome.jpg"
+  },
+  {
+    "id": "sango",
+    "name": "Sango",
+    "description": "Brave, loyal and determined, with a strong sense of responsibility.",
+    "image": "images/sango.jpg"
+  },
+  {
+    "id": "miroku",
+    "name": "Miroku",
+    "description": "Charismatic, intelligent and resourceful, always ready to find a way out of trouble.",
+    "image": "images/miroku.jpg"
+  },
+  {
+    "id": "sesshomaru",
+    "name": "Sesshomaru",
+    "description": "Independent, composed and powerful, rarely allowing others to influence his decisions.",
+    "image": "images/sesshomaru.jpg"
+  }
+]

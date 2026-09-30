@@ -1,0 +1,248 @@
+[
+  {
+    "id": 1,
+    "question": "You're traveling with a group and realize you've taken the wrong path. What do you do?",
+    "answers": [
+      {
+        "text": "Turn back immediately and find the right path.",
+        "points": {
+          "kagome": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "Keep going. There might be something interesting ahead.",
+        "points": {
+          "inuyasha": 2,
+          "miroku": 1
+        }
+      },
+      {
+        "text": "Stop and study the surroundings before deciding.",
+        "points": {
+          "sesshomaru": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "Ask the group what they think and decide together.",
+        "points": {
+          "sango": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "Pretend you meant to take this path and see where it leads.",
+        "points": {
+          "miroku": 2,
+          "inuyasha": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Someone you care about makes a decision you strongly disagree with. What do you do?",
+    "answers": [
+      {
+        "text": "Tell them exactly what I think, even if they get angry.",
+        "points": {
+          "inuyasha": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "Try to understand why they made that decision first.",
+        "points": {
+          "kagome": 2,
+          "miroku": 1
+        }
+      },
+      {
+        "text": "Let them make their own choice. It's their life.",
+        "points": {
+          "sesshomaru": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "Stay close in case things go wrong.",
+        "points": {
+          "sango": 2,
+          "inuyasha": 1
+        }
+      },
+      {
+        "text": "Challenge their reasoning until they reconsider.",
+        "points": {
+          "miroku": 2,
+          "sesshomaru": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "You have one completely free day. What sounds most appealing?",
+    "answers": [
+      {
+        "text": "Going somewhere I've never been before.",
+        "points": {
+          "inuyasha": 2,
+          "miroku": 1
+        }
+      },
+      {
+        "text": "Spending the day somewhere peaceful, away from everyone.",
+        "points": {
+          "sesshomaru": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "Doing something with the people I care about.",
+        "points": {
+          "kagome": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "Learning or discovering something new.",
+        "points": {
+          "miroku": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "Doing absolutely nothing planned and seeing where the day takes me.",
+        "points": {
+          "inuyasha": 1,
+          "miroku": 2
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "You discover that someone has misunderstood you. How do you react?",
+    "answers": [
+      {
+        "text": "I explain myself. I don't want them to have the wrong idea about me.",
+        "points": {
+          "kagome": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "If they really know me, they'll understand eventually.",
+        "points": {
+          "sesshomaru": 2,
+          "inuyasha": 1
+        }
+      },
+      {
+        "text": "I get annoyed and confront them about it.",
+        "points": {
+          "inuyasha": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "I try to understand why they interpreted me that way.",
+        "points": {
+          "kagome": 1,
+          "miroku": 2
+        }
+      },
+      {
+        "text": "I don't bother correcting them. Some things aren't worth explaining.",
+        "points": {
+          "sesshomaru": 2,
+          "miroku": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "You're given an important responsibility, but nobody tells you exactly how to handle it. What do you do?",
+    "answers": [
+      {
+        "text": "Figure it out as I go. I'll deal with problems when they appear.",
+        "points": {
+          "inuyasha": 2,
+          "miroku": 1
+        }
+      },
+      {
+        "text": "Gather as much information as possible before doing anything.",
+        "points": {
+          "miroku": 2,
+          "sesshomaru": 1
+        }
+      },
+      {
+        "text": "Make sure everyone involved knows what they're supposed to do.",
+        "points": {
+          "sango": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "Trust my instincts and adapt along the way.",
+        "points": {
+          "kagome": 2,
+          "inuyasha": 1
+        }
+      },
+      {
+        "text": "Do it my own way. If I was given the responsibility, I trust my judgment.",
+        "points": {
+          "sesshomaru": 2,
+          "sango": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "At the end of a long journey, what would make you feel that it was worth it?",
+    "answers": [
+      {
+        "text": "Knowing I became stronger because of it.",
+        "points": {
+          "inuyasha": 2,
+          "sesshomaru": 1
+        }
+      },
+      {
+        "text": "Knowing I helped someone along the way.",
+        "points": {
+          "kagome": 2,
+          "sango": 1
+        }
+      },
+      {
+        "text": "Knowing I accomplished something difficult.",
+        "points": {
+          "sango": 2,
+          "sesshomaru": 1
+        }
+      },
+      {
+        "text": "The things I learned and the experiences I had.",
+        "points": {
+          "miroku": 2,
+          "kagome": 1
+        }
+      },
+      {
+        "text": "The people I met and the connections I made.",
+        "points": {
+          "kagome": 2,
+          "miroku": 1
+        }
+      }
+    ]
+  }
+]
