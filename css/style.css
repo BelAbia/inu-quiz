@@ -135,3 +135,24 @@ body {
     left: 95%;
     animation-delay: 4.5s;
 }
+
+.quiz-screen {
+    display: none;
+    width: 100%;
+    padding: 20px;
+}
+
+.quiz-card {
+    max-width: 700px;
+    width: 100%;
+
+    margin: 0 auto;
+    padding: 40px;
+
+    background: rgba(255, 255, 255, 0.82);
+
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 24px;
+
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+}
