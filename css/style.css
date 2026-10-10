@@ -156,3 +156,131 @@ body {
 
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
 }
+
+.question-number {
+    margin-bottom: 20px;
+
+    font-size: 0.9rem;
+    font-weight: bold;
+
+    text-align: center;
+
+    color: #b76e8a;
+}
+
+.question-text {
+    margin-bottom: 30px;
+
+    font-size: 1.6rem;
+    line-height: 1.4;
+
+    text-align: center;
+
+    color: #5a3d4f;
+}
+
+.answers {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.answer-button {
+    width: 100%;
+    padding: 16px 20px;
+
+    border: 1px solid rgba(183, 110, 138, 0.35);
+    border-radius: 14px;
+
+    background: rgba(255, 255, 255, 0.65);
+
+    color: #5a3d4f;
+
+    font-size: 1rem;
+    text-align: left;
+
+    cursor: pointer;
+
+    transition: background 0.2s ease,
+                transform 0.2s ease,
+                box-shadow 0.2s ease;
+}
+
+.answer-button:hover {
+    background: rgba(255, 255, 255, 0.95);
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.12);
+}
+
+.result-screen {
+    display: none;
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.result-card {
+    width: 100%;
+    max-width: 650px;
+    padding: 40px;
+    text-align: center;
+
+    background: rgba(255, 255, 255, 0,85);
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 20px;
+    box-shadow: 0 8px 30px rgba(80, 40, 60, 0.2);
+
+    backdrop-filter: blur(10px);
+}
+
+.result-label {
+    margin-bottom: 12px;
+    color: #9b617b;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+.result-name {
+    margin-bottom: 20px;
+    color: #6d304d;
+    font-size: 2.2rem;
+}
+
+.result-image {
+    display: block;
+    width: 100%;
+    max-width: 280px;
+    max-height: 350px;
+    object-fit: contain;
+    margin: 0 auto 20px;
+}
+
+.result-description {
+    max-width: 450px;
+    margin: 0 auto 28px;
+    color: #59434d;
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.restart-button {
+    padding: 12px 28px;
+    border: none;
+    border-radius: 10px;
+
+    background: #a64d79;
+    color: white;
+
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.restart-button:hover {
+    background: #87385f;
+    transform: translateY(-2px);
+}
