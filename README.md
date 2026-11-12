@@ -1,6 +1,8 @@
 # 🌸 Which InuYasha Character Are You?
 
 A personality quiz inspired by the anime *InuYasha*. Answer a series of questions about your personality and discover which character best matches your choices!
+<img width="1916" height="986" alt="image" src="https://github.com/user-attachments/assets/c0eb0433-cb58-4441-9e9f-cb66e78e0b2f" />
+
 
 ## ✨ Features
 
